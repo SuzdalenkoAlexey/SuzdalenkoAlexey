@@ -4,5 +4,5 @@
 #### https://password-manager-22.web.app
 #### Python Django 
 #### https://x-route-planning.web.app
-#### PHP Laravel, Symfony
+#### Vue Js, PHP Laravel, Symfony
 ####
