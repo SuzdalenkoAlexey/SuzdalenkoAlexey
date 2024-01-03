@@ -2,9 +2,9 @@
 #### Soy desarrollador web y de aplicaciones Android (Java, Kotlin, Flutter)
 #### Estoy especializado en tecnologias: HTML, CSS, JavaScript (base datos FireBase)
 #### https://password-manager-22.web.app
-#### Python Django 
+#### Python - Flask, Django 
 #### https://x-route-planning.web.app
 #### Vue Js
-#### PHP Laravel, Symfony
+#### PHP - Laravel, Symfony
 #### SQL
-#### Java Spring Boot
+#### Java - Spring Boot
