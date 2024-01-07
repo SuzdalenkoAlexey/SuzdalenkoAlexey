@@ -9,6 +9,3 @@
 #### PHP - Laravel, Symfony
 #### SQL
 #### Java - Spring Boot
-puticita.es
-sexcita.eu
-xxxcita.eu
