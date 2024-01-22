@@ -9,3 +9,5 @@
 #### PHP - Laravel, Symfony
 #### SQL
 #### Java - Spring Boot
+<img width="100%" src="https://raw.githubusercontent.com/SuzdalenkoAlexey/SuzdalenkoAlexey/main/IMG_20240121_180429.jpg" />
+<img width="100%" src="https://raw.githubusercontent.com/SuzdalenkoAlexey/SuzdalenkoAlexey/main/IMG_20240121_180336.jpg" />
