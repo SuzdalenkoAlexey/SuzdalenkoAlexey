@@ -13,3 +13,4 @@ sus características. Unido a sus dimensiones y a la calidad de su factura, hay 
 árboles en tiempos anteriores, delimitaban territorios y/o sacralizaban encrucijadas de caminos, no es aventurada la hipótesis de que la que nos ocupa tenga un significado más
 concreto para la historia de la Villa. Es más que posible que su simbolismo esté relacionado con la herejía de los Begardos, que a finales del siglo XV sacudió el Duranguesado, y con la
 represión que la siguió" />
+###### Cruz de Kurutziaga (Durango)
